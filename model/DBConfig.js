@@ -3,7 +3,7 @@ const db = {
         client: 'sqlite3',
         useNullAsDefault: true,
         connection: {
-            filename: 'T:/sqlite-tools-win32-x86-3290000/reservation'
+            filename: 'C:/Projects/JS/workspace/reservation.sqlite.db'
         }
     }
 }
